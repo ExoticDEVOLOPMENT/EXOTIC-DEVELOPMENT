@@ -34,3 +34,4 @@ QB Inventory
 Third
 
 Make sure to put the script in your scripts folder in order for it to work
+.
